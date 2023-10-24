@@ -25,7 +25,8 @@ print(rank)
 ```
 
 ## Output:
-![output](System%20of%20linear%20equations.png)
+![output](https://github.com/RAVENPRAVIN/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/146820534/cd88fc40-15ba-45bc-9a28-847122100ef5)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
