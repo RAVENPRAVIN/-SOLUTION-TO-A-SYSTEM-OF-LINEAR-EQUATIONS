@@ -14,8 +14,18 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```python
+#Program to find the rank of a matrix.
+#Developed by: PRAVIN KUMAR A.
+#RegisterNumber:23007430
+import numpy as np
+A= np.array([[3,2,5],[1,1,2],[3,3,6]])
+rank = np.linalg.matrix_rank(A)
+print(rank)
+```
 
 ## Output:
+![output](System%20of%20linear%20equations.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
